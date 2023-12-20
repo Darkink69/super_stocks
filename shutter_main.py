@@ -6,9 +6,9 @@ import shutter_current_img
 # import get_description
 
 
-# url = 'https://www.shutterstock.com/en'
-# all_trands = shutter_lightbox.get_popular_result(url)  # get all trands with main page
-# print(all_trands)
+url = 'https://www.shutterstock.com/en'
+all_trands = shutter_lightbox.get_popular_result(url)  # get all trands with main page
+print(all_trands)
 
 
 # get all search results pages
